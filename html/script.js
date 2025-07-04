@@ -1,0 +1,1 @@
+alert('This popup is from an external JS script')
